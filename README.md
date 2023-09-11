@@ -11,5 +11,5 @@ Select Reopen in Container
 
 Then create your new Angular project like this
 
-ng new my-project --directory ./
+```ng new my-project --directory ./```
 Enjoy developing inside Docker containers from now on 
